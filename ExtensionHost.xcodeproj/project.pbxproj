@@ -555,6 +555,7 @@
 				DEVELOPMENT_TEAM = U6N93T3598;
 				INFOPLIST_FILE = ExtensionHost/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks";
+				MACOSX_DEPLOYMENT_TARGET = 10.11;
 				PRODUCT_BUNDLE_IDENTIFIER = com.kukushi.ExtensionHost;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
@@ -571,6 +572,7 @@
 				DEVELOPMENT_TEAM = U6N93T3598;
 				INFOPLIST_FILE = ExtensionHost/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks";
+				MACOSX_DEPLOYMENT_TARGET = 10.11;
 				PRODUCT_BUNDLE_IDENTIFIER = com.kukushi.ExtensionHost;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
@@ -649,6 +651,7 @@
 				875BE7961E211A0D00CFF213 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		87ED9E471E2119B400F6572B /* Build configuration list for PBXProject "ExtensionHost" */ = {
 			isa = XCConfigurationList;
